@@ -1,5 +1,5 @@
 # ファイティングキャラクターズ用のMOD制作プロジェクトです
- ### [開発プロジェクトをダウンロード](https://github.com/legisters-game/FCMOD/releases/tag/MOD%E9%96%8B%E7%99%BA)
+ ### [開発プロジェクトをダウンロード](https://github.com/legisters-game/FCMOD/releases/tag/MOD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 # 作り方
   * ## [注意事項](作り方/注意事項.md)
   * ## [キャラ追加方法](作り方/キャラ追加方法.md)
